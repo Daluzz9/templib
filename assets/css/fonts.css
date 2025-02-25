@@ -1,0 +1,55 @@
+/* Archivo - Regular */
+@font-face {
+  font-family: "Archivo";
+  src: url("@/assets/fonts/Archivo/Archivo.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Archivo - Italic */
+@font-face {
+  font-family: "Archivo";
+  src: url("@/assets/fonts/Archivo/Archivo-Italy.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* NunitoSans - Regular */
+@font-face {
+  font-family: "NunitoSans";
+  src:
+    url("@/assets/fonts/NunitoSans/NunitoSans-Regular.woff2") format("woff2"),
+    url("@/assets/fonts/NunitoSans/NunitoSans-Regular.woff") format("woff"),
+    url("@/assets/fonts/NunitoSans/NunitoSans-Regular.ttf") format("truetype"),
+    url("@/assets/fonts/NunitoSans/NunitoSans-Regular.eot");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* NunitoSans - Bold */
+@font-face {
+  font-family: "NunitoSans";
+  src:
+    url("@/assets/fonts/NunitoSans/NunitoSans-Bold.woff2") format("woff2"),
+    url("@/assets/fonts/NunitoSans/NunitoSans-Bold.woff") format("woff"),
+    url("@/assets/fonts/NunitoSans/NunitoSans-Bold.ttf") format("truetype"),
+    url("@/assets/fonts/NunitoSans/NunitoSans-Bold.eot");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* UTMCopperplate - Bold */
+@font-face {
+  font-family: "UTMCopperplate";
+  src: url("@/assets/fonts/UTMCopperplate/UTMCopperplate-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* UTMHanzel - Regular */
+@font-face {
+  font-family: "UTMHanzel";
+  src: url("@/assets/fonts/UTMHanzel/UTMHanzel-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
